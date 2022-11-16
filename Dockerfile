@@ -1,4 +1,4 @@
-FROM python:3.11.0-slim
+FROM python:3.12.0a2-slim
 
 EXPOSE 8081/tcp
 
